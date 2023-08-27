@@ -1,0 +1,61 @@
+# YOLOv5 🚀 by Ultralytics, AGPL-3.0 license
+
+
+
+
+
+
+
+
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+path: E:/c--/dyzk/xjsjs/yolov5test/zz_all/2021_detection
+train: E:/c--/dyzk/xjsjs/yolov5test/zz_all/2021_detection/images # 包含训练图像路径的txt文件
+val: E:/c--/dyzk/xjsjs/yolov5test/zz_all/2021_detection/images
+test:  # test images (optional)
+# Classes
+names: 
+  0: CA001
+  1: ZA002
+  2: BB001
+  3: CA002
+  4: ZB005
+  5: BB002
+  6: BB003
+  7: ZB001
+  8: ZB006
+  9: BB004
+  10: BB005
+  11: BB006
+  12: ZB008
+  13: BB007
+  14: BB008
+  15: ZC001
+  16: ZC002
+  17: ZC003
+  18: ZC004
+  19: ZC007
+  20: ZC008
+  21: ZC005
+  22: ZC006
+  23: ZC009
+  24: ZC010
+  25: ZC012
+  26: ZC011
+  27: BB009
+  28: BB010
+  29: BB011
+  30: BB012
+  31: BB013
+  32: ZC014
+  33: ZC015
+  34: ZC016
+  35: ZC017
+  36: ZC018
+  37: ZC019
+  38: CD001
+  39: CD002
+  40: CD006
+  41: CD004
+
+
+download: 
